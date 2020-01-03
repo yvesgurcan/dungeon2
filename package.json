@@ -36,7 +36,7 @@
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.10.0",
-    "webpack-dev-middleware": "^1.10.1",
+    "webpack-dev-middleware": "^2.0.6",
     "webpack-dev-server": "^2.9.7"
   },
   "dependencies": {
