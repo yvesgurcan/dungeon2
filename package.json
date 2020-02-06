@@ -43,7 +43,7 @@
     "file-loader": "^1.1.11",
     "react": "^16",
     "react-dom": "^16",
-    "react-redux": "^5",
+    "react-redux": "^6",
     "redux": "^3",
     "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.1.0",
